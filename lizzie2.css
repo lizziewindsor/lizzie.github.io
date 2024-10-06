@@ -47,6 +47,12 @@ img {
   margin-right: auto;
   max-width: 60%;
 }
+   figcaption { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
 }
 
 /* Responsive navigation menu (for mobile devices) */
@@ -101,6 +107,12 @@ img {
   margin-right: auto;
   max-width: 100%;
 }
+   figcaption { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
 }
 
 
@@ -151,12 +163,7 @@ p {
   width: 0;
   min-width: 100%;
 }
- figcaption { 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
 .center {
   margin: auto;
   width:60%;
