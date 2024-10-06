@@ -10,7 +10,7 @@
 
 .topnav a {
   float: left;
-  color: #3688E0;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -25,7 +25,7 @@
 
 .topnav a.active {
   background-color:white;
-  color: #3688E0;
+  color: black;
 }
 
 .topnav-centered a {
@@ -79,12 +79,12 @@ img {
 .tab {
   overflow: hidden;
   border: 0px solid #3688E0;
-  background-color: #3688E0;
+  background-color: black;
 }
 
 /* Style the buttons inside the tab */
 .tab button {
-  background-color: #3688E0;
+  background-color: black;
   color:white;
   font-family:menlo;
   float: left;
@@ -99,12 +99,12 @@ img {
 /* Change background color of buttons on hover */
 .tab button:hover {
   background-color: white;
-  color: #3688E0;
+  color: black;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #f0dd60;
+  background-color: #3688E0;
 }
 
 /* Style the tab content */
@@ -142,5 +142,4 @@ p {
         margin-right:auto;
         aspect-ratio: 5 / 3;
     }
-
 
