@@ -1,8 +1,9 @@
+@media screen and (min-width: 900px) {
 .topnav {
   overflow: hidden;
   background-color: white;
   padding-top:10px;
-    position: fixed; /* Set the navbar to fixed position */
+    position: top; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 
@@ -31,7 +32,7 @@
 .topnav-centered a {
   float: none;
   position: absolute;
-  top: 50%;
+  padding-top:60px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -40,40 +41,68 @@
   float: right;
   padding-right:15px;
 }
-
-/* Responsive navigation menu (for mobile devices) */
-@media screen and (max-width: 600px) {
-  .topnav a, .topnav-right {
-    float: none;
-    display: block;
-  }
-  
-  .topnav-centered a {
-    position: relative;
-    top: 0;
-    left: 0;
-    transform: none;
-  }
-  img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:100%;
-}
- figcaption { 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:100%;
-}
-}
-
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-width: 60%;
 }
+}
+
+/* Responsive navigation menu (for mobile devices) */
+@media screen and (max-width: 900px) {
+.mobile-container {
+  max-width: 480px;
+  margin: auto;
+  background-color: white;
+  height: 500px;
+  color: black;
+  border-radius: 10px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: black;
+  background:white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: white;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.topnav a:hover {
+  background-color: #3688E0;
+  color: white;
+}
+
+.active {
+  background-color: #3688E0;
+  color: white;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+}
+
 
 /* Style the tab */
 .tab {
@@ -142,4 +171,5 @@ p {
         margin-right:auto;
         aspect-ratio: 5 / 3;
     }
+
 
