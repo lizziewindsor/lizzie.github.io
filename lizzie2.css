@@ -165,11 +165,13 @@ p {
 }
 
 .center {
-  margin: auto;
-  width:60%;
-  border: 3px solid white;
-  padding:70px;
-  text-align:center;
+   float: none;
+  position: absolute;
+  padding-top:60px;
+  left: 50%;
+  top: 50%;
+  Text-align:center;
+  transform: translate(-50%, -50%);
 }
  .pdf {
         width: 70%;
