@@ -21,8 +21,8 @@
   </div>
   
   <!-- Left-aligned links (default) -->
-  <a href="work.html" style="background:#3688E0;color:white">Work</a>
-  <a href="cv.html">CV</a>
+  <a href="work.html">Work</a>
+  <a href="cv.html"style="background:#3688E0;color:white">CV</a>
   
   <!-- Right-aligned links -->
   <div class="topnav-right">
@@ -31,362 +31,63 @@
     <a href="contact.html">Contact</a>
 
   </div>
-  
-</div>
+  </div>
 <br>
-<br>
-
-<div id="Getting Dressed" class="tabcontent">
-
- <figure>
-  <figcaption><h3>Getting Dressed in the Dark</h3></figcaption>
-     <figcaption>Solo exhibition, Provo, UT - 2024</figcaption>
-     <br>
- <img src="https://64.media.tumblr.com/26cc47ab83dbc5807431ce4e27e58976/603bfb72283ea0d1-57/s2048x3072/a8700e568cf30dc8839fb6d88fdd37fb6ed4b449.jpg" 
- alt="blue slides and red pants sitting on bed">
-<figcaption></figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/632bc230a8e5b7031cd09b47f8809d68/7c4f4a5a56946b8d-e0/s2048x3072/8ad37989cce1cb6e2a120865da255381bfd43fa9.jpg" 
- alt="woven tape on purple background">
-<figcaption></figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/4f7d15d1dd54b5292b246616710055ce/0aa1ade59ad6138d-1f/s1280x1920/a7c4bf71e72b53264b97ab7d0f7e8b988e50ded3.jpg" 
- alt="brown hair with barettes">
-<figcaption></figcaption>
-</figure>
-     <figure>
- <img src="https://64.media.tumblr.com/1c693a70dd0afb04cc86ff159a7249ed/34fd9bdc352d81b9-8b/s2048x3072/4db7afbe5b0d3a776c2eaac8261fbebe59f7dfe9.jpg" 
- alt="pin cushion">
-<figcaption></figcaption>
-</figure>
-    <figure>
- <img src="https://64.media.tumblr.com/7888c85cf36b4a9bdcbda831a4fe187d/a8da37fe6f83211b-29/s2048x3072/7737176509a341ad778dcc16fe65d1d48a1d1b53.jpg" 
- alt="blue jeans and blue shirt">
-<figcaption></figcaption>
-</figure>
-    <figure>
- <img src="https://64.media.tumblr.com/42de908bcc4ba78960a2744a3322008a/a8da37fe6f83211b-c0/s2048x3072/de58030c0567d6b94761148e9318ebb3edd839ec.jpg" 
- alt="chapstick">
-<figcaption></figcaption>
-</figure>
-    <figure>
- <img src="https://64.media.tumblr.com/f34956b258954967480e3ef345849ee1/282c02be0760d156-50/s2048x3072/4e39906c5c011952f79c595b6e2d76409118065e.jpg" 
- alt="Jacket with flowers on lapel">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/bd5232b1569db33baa60f22b71c4dfe3/ad769bbbd3e39e81-18/s2048x3072/da90c2ac45f0717034579aa6fb0ec248d1b3ab80.jpg" 
- alt="Yellow slides blue pants">
-<figcaption></figcaption>
-</figure>
-    <figure>
- <img src="https://64.media.tumblr.com/c6fc70e075b98ce4417e81dd68d1ed1c/ad769bbbd3e39e81-1c/s2048x3072/a9aee771ad2227162bef6a3c8fc2bba2c0f222ac.jpg" 
- alt="Blue slides red pants">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/58a3ae16688464d751f4602899e4b511/dc56a644a0ac8f79-97/s2048x3072/6b36665fea28832eb6e9e58c35cb3a43b32c5808.jpg" 
- alt="sewing machine and pin cushion">
-<figcaption></figcaption>
-</figure>
-    <figure>
- <img src="https://64.media.tumblr.com/3826b77a2c31b690549ba2b5d35dbbe4/6611a0139b1d34f4-ec/s2048x3072/44253cbd728e344729fbb0ded38e816f83d39958.jpg" 
- alt="green fabric with flower pins">
-<figcaption></figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/a7aba05b32fb178ee7d7bc45c2a68749/7fd3963af9be69e1-39/s2048x3072/6b2e6790fd9530c0a47787f2f0d622aeb583eddb.jpg" 
- alt="Pink shirt pocket">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/b6c402daf095cb92212df1a425ac9ec4/3087e4f6ae7484ca-2f/s2048x3072/ca61fac6a69300ac4fecc3eb1bdceb349ba60c99.jpg" 
- alt="Red pin">
-<figcaption></figcaption>
-</figure>
-   <figure>
- <img src="https://64.media.tumblr.com/bf8d0258e0356e4d0c0a07b683b078c1/22f58e75b4f6075b-2b/s2048x3072/ed4d4fb79c4642d3922c9016fcd260531d70ac72.jpg" 
- alt="library book">
-<figcaption></figcaption>
-</figure>
- 
-</div>
-
-<div id="Japan" class="tabcontent">
-
- <figure>
-   <figcaption><h3>o(^_-)O</h3></figcaption>
-  <figcaption>Tokyo, Japan - 2024</figcaption>
-  <br>
- <img src="https://64.media.tumblr.com/718e7224273d209ba6dc2c2f1d1e3207/717a7d7cf13bd428-e5/s2048x3072/4f47c0c467d30ac88469dd49b47c34ea59b64d22.jpg" 
- alt="stickers at a waterfall">
-<figcaption></figcaption>
-</figure>
-
-<figure>
- <img src="https://64.media.tumblr.com/022d7674d982e2721343cc7605537612/717a7d7cf13bd428-e5/s2048x3072/f631fe1b9a6da3fadc5a1d109432613ee132050a.jpg" 
- alt="blue net">
-<figcaption></figcaption>
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/4a0d60ac7321dde24dd5021270242ed4/717a7d7cf13bd428-42/s2048x3072/361c4d7e2522f57c073138007302b263fdbfcf54.jpg" 
- alt="racetrack">
-<figcaption></figcaption>
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/4764e9bb852396deac8ca904ddbb44ad/717a7d7cf13bd428-e0/s2048x3072/734bf2a612a454d1ee10ff60f5b945ecdfe36e09.jpg" 
- alt="political poster and flowers">
-<figcaption></figcaption>
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/329331b6bb1bd45d3d8d5ac0cf4c123f/717a7d7cf13bd428-50/s1280x1920/7f0080aa9744c779558a84bf6bd748f55048d1f7.jpg" 
- alt="mixed up road">
-<figcaption></figcaption>
-</figure>
-
-  <figure>
- <img src="https://64.media.tumblr.com/39b99f6cb44e6aefcfd06ca74682d998/717a7d7cf13bd428-f1/s2048x3072/f24621466c2827ac6183c57fba41959541a4e8e4.jpg" 
- alt="political poster and baseball">
-<figcaption></figcaption>
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/400eccbb19ef447a40351c13667c3b2f/717a7d7cf13bd428-22/s2048x3072/9a1751b650ea9605a1b7363fba2f3eaff66487d1.jpg" 
- alt="threshold">
-<figcaption></figcaption>
-</figure>
- 
-  <figure>
- <img src="https://64.media.tumblr.com/2a322cfaeb0c4d021b6fd5d6afdc8b26/717a7d7cf13bd428-10/s2048x3072/60c0d7ff1d79b4e31634749037215f56e6f1b6fa.jpg" 
- alt="blue construction fabric">
-<figcaption></figcaption>
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/a8de7be91ba53127f1e7873425f5a35f/717a7d7cf13bd428-0b/s2048x3072/673e9d52a4638820524c9a5f644599b491166d7d.jpg" 
- alt="motorcycle cover">
-<figcaption></figcaption>
-</figure>
-
-  <figure>
- <img src="https://64.media.tumblr.com/0f351bfb096a4c24a58d538d6290bcea/717a7d7cf13bd428-e9/s2048x3072/712fea49cd10f85314c3cd363764cf530303d43b.jpg" 
- alt="political poster and gardeners">
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/fcfca9bcf237256599b538233bf2d720/717a7d7cf13bd428-16/s2048x3072/28a52a1ed2a82dbb3ba5b60cb03dcae7ce009c6b.jpg" 
- alt="fence">
-<figcaption></figcaption>
-</figure>
-
-  <figure>
- <img src="https://64.media.tumblr.com/9ed9f653beac26800e247ce2fc3e44d0/717a7d7cf13bd428-77/s2048x3072/36fe16dcd4e867e0974662f9622b5c9c56e9f280.jpg" 
- alt="road">
-<figcaption></figcaption>
-</figure>
- 
- <figure>
-  <img src="https://64.media.tumblr.com/ff478d8f59e3393791cc7e0594568168/717a7d7cf13bd428-92/s2048x3072/0d93c68d0437ce84068936dcd68a6bf84e4a1a39.jpg" 
- alt="Billboard trees">
-<figcaption></figcaption>
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/696bbdd91c085fe1c565cbd932e11df5/717a7d7cf13bd428-11/s2048x3072/2e6b93b057fd013050400d38b3a3547754756a36.jpg" 
- alt="back of shirt">
-<figcaption></figcaption>
-</figure>
-
- <figure>
- <img src="https://64.media.tumblr.com/f7fc26ba6d8db8d41aed41c196c6b71a/717a7d7cf13bd428-5c/s2048x3072/f1a48f224f80eb50bfdf004b3b9ba0a66553bfbe.jpg" 
- alt="baseball">
-<figcaption></figcaption>
-</figure>
-
-</div>
-
-<div id="No Thanks" class="tabcontent">
-  
-<figure>
- <figcaption><h3>No Thanks, I'll Walk</h3></figcaption>
- <figcaption>Photo book - 2023</figcaption>
  <br>
- <img src="https://64.media.tumblr.com/acc915754f3456e721d63e64b5a5d671/8d05a2c04dcd3bbf-13/s2048x3072/3e0bf6bea3ebb8e0106448e6811f8ea7a559fdad.jpg" 
- alt="blurry horse">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/120cda147fec8a6c642913c6c37ccc27/9e4dd7a8d9864b13-f2/s2048x3072/0d7f247bc4db80f2207bdc149602a17e0c47c90d.jpg" 
- alt="pant pocket">
-<figcaption></figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/80fb3de3a5aaadf49f8afa5b83fcbe5d/b506a13593f02f9e-77/s2048x3072/328bd4340846092c1b6b5c8ad31dcd446f47a2ee.jpg" 
- alt="grass 1">
-<figcaption></figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/ad25c19713c5f4b1f69123109c902448/b506a13593f02f9e-b9/s2048x3072/9d1e400719a444cb5bf581dd79f39183e79b606f.jpg" 
- alt="grass 2">
-<figcaption></figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/8cc4962f896c300f88cacb0ebf59b03a/a076b4b42fc1c870-c6/s2048x3072/72b21cf3e6c851b69f859517d61a2456b5e9a94f.jpg" 
- alt="blue and pink and foam">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/961e5aae5f664a1dab7beba91a62f7d8/b47af6828c20d553-3d/s2048x3072/1434fd3ecf1c264fd01961eba1771d2c48ba9c07.jpg" 
- alt="red scribbles">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/c24a24c62d1064a589d8cc8623bc212a/79cd27525d91243e-1d/s2048x3072/8ce0ee3157a38f21ff437b5b7b3c98ae98d75d0f.jpg" 
- alt="hair and pencil">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/1eb65c39ff15bb2fcd2b69547bff4f0c/39962d88df2b04f3-4b/s2048x3072/bf56442fcfb114c9dea27e84e9245f390db401d7.jpg" 
- alt="hands holding blue pencil">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/f2d02618e7e817b2f8814468d6d107c1/5ff0d89f99aa5cc4-ee/s2048x3072/927852a1cb0123f928803eea9f561e8178225c1d.jpg" 
- alt="red sweater and blue jacket">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/d699ee2dd094c72329e3b8678d97fefd/2ce4ad793fee30ff-f1/s2048x3072/b419730238ddeb06485e6845cf3d62afdec74ef8.jpg" 
- alt="brown jacket">
-<figcaption> </figcaption>
-</figure>
-   <figure>
- <img src="https://64.media.tumblr.com/0a2fe335cd3cc25e928624dc50f88bfe/bfc43f67a96b4924-10/s2048x3072/0d8c8e4266287759b5423c6e1fc8212014099307.jpg" 
- alt="red sweater folding arms">
-<figcaption> </figcaption>
-</figure>
-   <figure>
- <img src="https://64.media.tumblr.com/0fdeb617ab22d07ea216ba0a3fdacea6/3100a5e4cd241384-22/s2048x3072/c482756532f9bec9c787ae6f1547893dd209e7d8.jpg" 
- alt="garbage truck">
-<figcaption> </figcaption>
-</figure>
-   <figure>
- <img src="https://64.media.tumblr.com/144f2736093b36d18ecd49efc7b9fe67/26bc7f7f7a998f3e-3e/s2048x3072/3e2630a5ff6cceb1d5f8f6b6b3233ade96c8f131.jpg" 
- alt="overalls and pencil">
-<figcaption> </figcaption>
-</figure>
-   <figure>
- <img src="https://64.media.tumblr.com/b73df00ab3bde5e87e373ae13c7f119f/cf4fdd017b1a190e-13/s2048x3072/d39d248e31f2b130669cec4584deb8b3354f28e4.jpg" 
- alt="colored pencils in rubberband">
-<figcaption> </figcaption>
-</figure>
-   <figure>
- <img src="https://64.media.tumblr.com/c6750fe61c528e9845c83426013ef816/f7a843118e34e0c3-ac/s2048x3072/a2835ef0f037aafe40254cd27a15919620b1d3b2.jpg" 
- alt="white shirt">
-<figcaption> </figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/322b5b45c456593a5b6dcd79da6d5ad2/92f3f71f83352d6d-78/s2048x3072/831d4e2a8791e1365f6ae3a6ea4ca8f8483bedef.jpg" 
- alt="hand holding glass">
-<figcaption> </figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/f9f7d4314ba8359e47ed432dd1ed65eb/0f426b9a8993515f-8e/s2048x3072/32971a9ba8d0a5423c3b204de5d03eb53a27dd82.jpg" 
- alt="blurry fists">
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/ab318baa16b8bc72a4ba4cf0a70a8038/c47427e6b40acd87-5b/s2048x3072/1b380ab0f8bedf0ef67f670e69d465a3ea97f53b.jpg" 
- alt="mittens">
-</figure>
-
-</div>
-
-<div id="Lying in my bed" class="tabcontent">
-  <figure>
-   <figcaption><h3>Sometimes i'm lying in my bed and i feel like my body gets really small so i have to move to make sure i'm normal sized</h3></figcaption>
-   <figcaption>Two-person exhibiton, Lizzie Windsor and Brenna Cooper, Provo, UT - 2023</figcaption>
-   <br>
- <img src="https://64.media.tumblr.com/0c9cdc847654e95af27734743a862953/5a08eca2894afa86-6a/s2048x3072/7b70e569186a801bd9008f0c01968220db2364a2.jpg" 
- alt="Installation View">
-   <br>
-<figcaption>Installation view, from left to right works by: Brenna Cooper, Lizzie Windsor, Lizzie Windsor</figcaption>
-</figure>
- <figure>
- <img src="https://64.media.tumblr.com/9499cebfe8a02ee3499bc876f927effc/c9eb53b1a78994a9-64/s2048x3072/22ed3398fdad4303629513ceb9c79727408e8c8e.jpg" 
- alt="Blurry shirt">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/ceeb818a227a885b7769b1be11c86620/94f5b3417d3bcb0e-2e/s2048x3072/b06e1f8b2cfb765e2dda5068eaa6d9b209ed8872.jpg" 
- alt="jacket">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/6db9012a094cce1e9ba8b7dbcd0896bc/5a08eca2894afa86-fa/s1280x1920/c92efb8f2ec5a65d4c0574475a51a83d4064ee0b.jpg" 
- alt="Installation View">
-   <br>
-<figcaption>Installation view, from left to right works by: Lizzie Windsor, Brenna Cooper</figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/a30daa4ad8a40e7398c3a619f2143192/5a08eca2894afa86-9e/s1280x1920/df3ca5dae9f51cd7ca5be00d385c2eb11f651928.jpg" 
- alt="Installation View">
-   <br>
-<figcaption>Installation view, from left to right works by: Brenna Cooper, Lizzie Windsor, Brenna Cooper, Lizzie Windsor</figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/48c58ca78c70b57df0b233d4244f7044/77034be086364d6c-bc/s2048x3072/b79c5b1b6b3e48d213299f0254d6e2fdc325b098.jpg" 
- alt="Stop sign">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/2b2f9673211f83d3fb424c221ff91374/488aff221a0581a2-b7/s2048x3072/f6baa888bd8afa16e5fef88a1bf1987a68e00ef2.jpg" 
- alt="Light post">
-<figcaption></figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/7c5dfd301c82aa1e6b9e6c193783c382/5a08eca2894afa86-23/s2048x3072/736e1dcae5fc156706d45eeaf1928e90456d619b.jpg" 
- alt="Eye">
-   <br>
-<figcaption>Video installation, Lizzie Windsor</figcaption>
-</figure>
-  <figure>
- <img src="https://64.media.tumblr.com/03dd9563d7a48372f4d1154850ae7068/c63f7700ed559199-0a/s2048x3072/4f92d7c3e64e96288ec94a178eab40052e1adc8f.jpg" 
- alt="Diesel">
-<figcaption></figcaption>
-</figure>
-</div>
- 
-</div>
- <div id="Zines" class="tabcontent">
-  <figcaption><h3>Zines</h3></figcaption>
-</div>
-
- <div id="Zines" class="tabcontent">
-  <h3>Zines</h3>
-  <p>Paris is the capital of France.</p> 
-</div>
- 
-<script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
-
+ <br>
+ <figcaption>
+  <h2>Artist Statment</h2>
+ I worry that there is something I am missing about how the world functions. In my work I make photographs and installations using quotidian objects. The objects make words—the combinations of objects make sentences. The “sentences” are made from photoshop frankensteins and combinations of images and physical objects. I like quotidian objects because they have become invisible because they are so familiar. I have a hunch that when studied, they will reveal something about our underlying systems. While doing this I am simultaneously working with two trains of thought. In the first I am trying to stumble upon an insight that will clarify my world view—clicking everything into place. In the other, I am trying to represent how my interactions with the world feel: destabilizing. <br>
+  <br>
+  <h2>CV</h2>
+<b>Education</b>
+  <br>
+<br>2025 BFA, Brigham Young University, Provo, UT
+  <br>
+<br><b>Selected Exhibitions</b>
+  <br>
+<br>2024 
+<br>Getting Dressed in the Dark - solo exhibition, Weight Room Gallery, Provo, UT
+<br>Art Department Annual Student Exhibition - Weight Room Gallery, Provo, UT
+<br>
+  <br>2023 
+<br>ZINES - Arcade on Stadium, Provo, UT Great Good Place - Weight Room Gallery, Provo, UT
+<br>Sometimes I’m lying in my bed and I feel like my body gets really small so I have to move to make sure I’m normal sized - two person exhibition, Weight Room Gallery, Provo, UT
+<br>801 Salon Book Fair - Vis., Salt Lake City, UT Art Department Annual Student Exhibition - Weight Room Gallery,Provo, UT
+<br>Library of Moments - two person exhibition, BYU West Campus Central Building, Provo, UT
+<br>
+  <br>2022 
+<br>ZINES - Arcade on Stadium, Provo, UT From the Home - two person exhibition, BYU West Campus Central Building, Provo, UT
+<br>47th Annual Quilt Show - Springville Museum of Art, Springville, UT
+<br>Art Department Annual Student Exhibition - Gallery 303, Provo, UT
+<br>
+  <br>2021 
+<br>Safely Kept - Neighborhood Art Center, Provo, UT Entropy - Gallery 303, Provo, UT
+<br>Art Department Annual Student Exhibition - Gallery 303, Provo, UT
+  <br>
+<br><b>Publications</b>
+  <br>
+<br>2024 Avery Labels - Zine, 12 pages, self-published
+<br>2023 No thanks, I’ll walk - Photo book, 50 pages, self-published Vague Definitions - Zine, 12 pages, self-published
+<br>
+  <br><b>Awards</b>
+  <br>
+<br>2022-24 Corey Nathan Belleau Scholarship 
+  <br>2022-24 Talent Award
+<br>
+  <br>
+  <a href="CV.pdf" style="color:black;" target="_blank">Download my CV here</a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</figcaption>
 </body>
 
 </html>
